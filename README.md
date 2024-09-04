@@ -4,7 +4,7 @@
 
 This is a simple Ping Pong game developed using Processing.py. The game allows you to play against a computer-controlled paddle. The objective is to score points by making the ball pass the opponent's paddle while preventing the ball from passing your paddle.
 
-## Features
+## Features 
 
 - **Single Player Mode:** Play against a computer-controlled opponent.
 - **Score Tracking:** Keeps track of the scores for both the player and the computer.
